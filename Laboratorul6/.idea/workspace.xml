@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fb82111-82e3-4f5e-bf79-59dc1f705bb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZebgfzuYgCQ0eIOWzStUcTsoI3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MovieTest">
+    <configuration name="Cleaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course_5.Cleaner" />
+      <module name="Course5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course_5.Ex1" />
+      <module name="Course5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course_5.Ex3" />
+      <module name="Course5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course_5.MovieTest" />
+      <module name="Course5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirtualCoffe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course_5.VirtualCoffe" />
+      <module name="Course5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MovieTest" />
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.Cleaner" />
+        <item itemvalue="Application.VirtualCoffe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fb82111-82e3-4f5e-bf79-59dc1f705bb5" name="Default Changelist" comment="" />
+      <created>1585202622137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585202622137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585203225037">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="183" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1585203225037" />
+    <state x="534" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1585209465014">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="534" y="108" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1585209465014" />
+    <state width="1342" height="198" key="GridCell.Tab.0.bottom" timestamp="1585210336838">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585210336838" />
+    <state width="1342" height="198" key="GridCell.Tab.0.center" timestamp="1585210336838">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1585210336838" />
+    <state width="1342" height="198" key="GridCell.Tab.0.left" timestamp="1585210336838">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1585210336838" />
+    <state width="1342" height="198" key="GridCell.Tab.0.right" timestamp="1585210336838">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1585210336838" />
+    <state x="425" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1585202637985">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="222" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1585202637985" />
+  </component>
+</project>
