@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2168d4f-43b6-45bf-9f5f-cbb56f89cbe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/streams/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/file4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorul6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorul6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratorul 7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorul 7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex1/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex1/Ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex1/Ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex1/Ex2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex1/Ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex1/Ex3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex3/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex3/Ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex3/Ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex3/Ex2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex3/Ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratorul 7/exceptions/ex3/Ex3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,10 +103,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Ex1 (1)" />
-      <item itemvalue="Application.Ex3 (1)" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Ex1" />
       <item itemvalue="Application.Ex2" />
+      <item itemvalue="Application.Ex3 (1)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
@@ -144,7 +129,19 @@
       <option name="presentableId" value="Default" />
       <updated>1585821641789</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab7 Updated">
+      <created>1587456640626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587456640626</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab7 Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab7 Updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="76" key="#Project_Structure" timestamp="1587394297043">
@@ -159,41 +156,53 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1585836977927" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1587398489542">
+    <state x="424" y="12" key="CommitChangelistDialog2" timestamp="1587456636090">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587398489542" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1587398489542">
+    <state x="424" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587456636090" />
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1587457365948">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587398489542" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1587398489542">
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587457365948" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1587456684556">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587398489542" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1587398489542">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587456684556" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1587456684556">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587398489542" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1587394339246">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587456684556" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1587456684556">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587394339246" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1587394339245">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587456684556" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1587456684556">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1587394339245" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1587394339245">
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587456684556" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1587456684522">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1587394339245" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1587394339245">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587456684522" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1587456684522">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1587394339245" />
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1587394167470">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1587456684522" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1587456684522">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1587394167470" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1587456684522" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1587456684522">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1587456684522" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1587457452953">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1587457452953" />
+    <state x="209" y="38" key="new project wizard" timestamp="1587457373819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1587457373819" />
   </component>
 </project>
