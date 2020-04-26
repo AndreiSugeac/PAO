@@ -1,0 +1,13 @@
+Inserted Event{nameEvent='Nirvana Remastered', date='25.11.2021', startingHour=20, duration=180 min, location=Location{country='France', city='Paris', venue='Les Parc De Princes'}} to Event.csv, 2020-04-26 16:16:20.572
+Deleted Event{nameEvent='Nirvana Remastered', date='25.11.2021', startingHour=20, duration=180 min, location=Location{country='France', city='Paris', venue='Les Parc De Princes'}} from Event.csv, 2020-04-26 16:17:52.391
+Inserted Sales{Ticket{ticket_id=565cf922-e9a1-4931-8273-8b3e07c6a004, Event{nameEvent='Pink Floyd Remastered', date='30.05.2020', startingHour=21, duration=180 min, location=Location{country='Germany', city='Munich', venue='Allianz Arena'}}} ,Client{Person{name='Yolanda Rodriguez', age=21}, id=bc52d77f-9959-4dc1-936b-883a7de2f5e4}}
+ to Sales.csv, 2020-04-26 16:19:43.902
+Inserted Client{Person{name='Yolanda Rodriguez', age=21}, id=bc52d77f-9959-4dc1-936b-883a7de2f5e4} to Client.csv, 2020-04-26 16:19:43.917
+Deleted Event{nameEvent='Live Aid', date='19.09.2020', startingHour=20, duration=240 min, location=Location{country='UK', city='London', venue='O2 Arena'}} from Event.csv, 2020-04-26 16:28:37.541
+Inserted Event{nameEvent='Live Aid', date='25.09.2020', startingHour=20, duration=240 min, location=Location{country='UK', city='London', venue='O2 Arena'}} to Event.csv, 2020-04-26 16:30:50.292
+Inserted Sales{Ticket{ticket_id=468d88fd-8bac-4565-a3bf-e08e2f7f28e8, Event{nameEvent='Live Aid', date='25.09.2020', startingHour=20, duration=240 min, location=Location{country='UK', city='London', venue='O2 Arena'}}} ,Client{Person{name='Horia Druliac', age=20}, id=2a728046-c95c-4aa9-8c79-1aa586bfb535}}
+ to Sales.csv, 2020-04-26 16:32:13.957
+Inserted Client{Person{name='Horia Druliac', age=20}, id=2a728046-c95c-4aa9-8c79-1aa586bfb535} to Client.csv, 2020-04-26 16:32:13.973
+Deleted [Sales{Ticket{ticket_id=468d88fd-8bac-4565-a3bf-e08e2f7f28e8, Event{nameEvent='Live Aid', date='25.09.2020', startingHour=20, duration=240 min, location=Location{country='UK', city='London', venue='O2 Arena'}}} ,Client{Person{name='Horia Druliac', age=20}, id=2a728046-c95c-4aa9-8c79-1aa586bfb535}}
+] from Sales.csv, 2020-04-26 16:33:01.42
+Deleted Event{nameEvent='Live Aid', date='25.09.2020', startingHour=20, duration=240 min, location=Location{country='UK', city='London', venue='O2 Arena'}} from Event.csv, 2020-04-26 16:33:01.442

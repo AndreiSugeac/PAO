@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2168d4f-43b6-45bf-9f5f-cbb56f89cbe8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../OOP_Project/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Project/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/out/production/OOP_Project/System/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/out/production/OOP_Project/System/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/out/production/OOP_Project/System/Services.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/out/production/OOP_Project/System/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/src/System/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Project/src/System/Model/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/src/System/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Project/src/System/Dao/DataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/src/System/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Project/src/System/Model/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/src/System/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Project/src/System/Model/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/src/System/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Project/src/System/Model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/src/System/Sales.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Project/src/System/Model/Sales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/src/System/Services.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Project/src/System/Services/Services.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/src/System/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Project/src/Test/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Project/src/System/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Project/src/System/Model/Ticket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OOP_Project" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -160,10 +176,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="424" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587456636090" />
-    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1587457365948">
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1587804671599">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587457365948" />
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587804671599" />
     <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1587456684556">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -196,10 +212,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1587456684522" />
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1587457452953">
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1587804654333">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1587457452953" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1587804654333" />
     <state x="209" y="38" key="new project wizard" timestamp="1587457373819">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
