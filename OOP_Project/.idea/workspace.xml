@@ -2,28 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8572ade9-9038-4a68-bb19-92dee53aa092" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorul7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorul7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_12.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/DataBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Event.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Location.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Sales.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Services.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/Model/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/Dao/DataBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/Model/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/Model/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/Model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/Sales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/Model/Sales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/Services.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/Services/Services.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/Model/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/Audit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_Project/Audit.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/Client.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_Project/Client.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/CsvFile/Audit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/CsvFile/CsvReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/CsvFile/CsvTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/CsvFile/CsvWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/CsvFile/csv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/Event.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_Project/Event.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/Interface/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/Interface/Ui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_Project/Interface/Ui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/Sales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_Project/Sales.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Dao/DataBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Model/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Model/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Model/Location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Model/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Model/Sales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Model/Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Services/ClientServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Services/EventServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Services/SalesServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Services/Services.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/System/Services/TicketServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/Test/TestCSV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Project/Test/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Audit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Audit.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CsvFile/Audit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/CsvFile/Audit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CsvFile/CsvReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/CsvFile/CsvReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CsvFile/CsvTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/CsvFile/CsvTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CsvFile/CsvWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/CsvFile/CsvWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CsvFile/csv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/CsvFile/csv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Event.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Event.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interface/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interface/Ui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Ui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sales.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Dao/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Dao/DataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Model/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Model/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Model/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Model/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Model/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Model/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Model/Sales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Model/Sales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Model/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Model/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Services/ClientServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Services/ClientServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Services/EventServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Services/EventServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Services/SalesServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Services/SalesServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Services/Services.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Services/Services.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Services/TicketServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/System/Services/TicketServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/TestCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Test/TestCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Test/TestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +64,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,14 +80,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Admin">
+  <component name="RunManager" selected="Application.TestJDBC">
     <configuration name="Admin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Interface.Admin" />
       <module name="OOP_Project" />
@@ -69,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CsvTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CsvFile.CsvTest" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backend.App.App" />
       <module name="OOP_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CsvFile.*" />
+          <option name="PATTERN" value="Backend.App.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +120,11 @@
       </method>
     </configuration>
     <configuration name="TestCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.TestCSV" />
+      <option name="MAIN_CLASS_NAME" value="Backend.Test.TestCSV" />
       <module name="OOP_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="Backend.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.TestClass" />
+    <configuration name="TestJDBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backend.JDBC.TestJDBC" />
       <module name="OOP_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="Backend.JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestJDBC" />
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.Admin" />
         <item itemvalue="Application.Ui" />
         <item itemvalue="Application.TestCSV" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.CsvTest" />
       </list>
     </recent_temporary>
   </component>
@@ -153,34 +190,34 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="172" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.834@0.0.1536.834" timestamp="1587731720721" />
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1587902097329">
+    <state x="739" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1591367325080">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1587902097329" />
+    <state x="739" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1591367325080" />
     <state x="618" y="306" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586096495673">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="618" y="306" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834@0.0.1536.834" timestamp="1586096495673" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1587735904385">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1591455843019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587735904385" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1587908035457">
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1591455843019" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1591458056031">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587908035457" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1587908035457">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591458056031" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1591458056031">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587908035457" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1587908035457">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591458056031" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1591458056031">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587908035457" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1587908035457">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591458056031" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1591458056031">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587908035457" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591458056031" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1587846440601">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -197,10 +234,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1587846440601" />
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1587889072919">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1591456530113">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1587889072919" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591456530113" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1591456511784">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1591456511784" />
+    <state x="498" y="311" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591182029251">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="311" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834@0.0.1536.834" timestamp="1591182029251" />
+    <state x="209" y="38" key="new project wizard" timestamp="1591455891036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1591455891036" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1587906599008">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

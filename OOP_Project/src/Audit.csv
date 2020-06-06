@@ -11,3 +11,8 @@ Inserted Client{Person{name='Horia Druliac', age=20}, id=2a728046-c95c-4aa9-8c79
 Deleted [Sales{Ticket{ticket_id=468d88fd-8bac-4565-a3bf-e08e2f7f28e8, Event{nameEvent='Live Aid', date='25.09.2020', startingHour=20, duration=240 min, location=Location{country='UK', city='London', venue='O2 Arena'}}} ,Client{Person{name='Horia Druliac', age=20}, id=2a728046-c95c-4aa9-8c79-1aa586bfb535}}
 ] from Sales.csv, 2020-04-26 16:33:01.42
 Deleted Event{nameEvent='Live Aid', date='25.09.2020', startingHour=20, duration=240 min, location=Location{country='UK', city='London', venue='O2 Arena'}} from Event.csv, 2020-04-26 16:33:01.442
+Inserted Sales{Ticket{ticket_id=1ca4dd81-91c8-4167-8342-fd495a983e6b, Event{nameEvent='Pink Floyd Remastered', date='30.05.2020', startingHour=21, duration=180 min, location=Location{country='Germany', city='Munich', venue='Allianz Arena'}}} ,Client{Person{name='Jerry Krause', age=32}, id=af0a1a19-a7e0-4eee-9c53-651ad0952d18}}
+ to Sales.csv, 2020-05-09 21:02:52.178
+Inserted Client{Person{name='Jerry Krause', age=32}, id=af0a1a19-a7e0-4eee-9c53-651ad0952d18} to Client.csv, 2020-05-09 21:02:52.199
+Inserted Event{nameEvent='U2 Live Tour', date='10.05.2021', startingHour=20, duration=120 min, location=Location{country='France', city='Marseille', venue='Marseille Arena'}} to Event.csv, 2020-05-09 21:05:16.91
+Inserted Event{nameEvent='Jazz in the Church', date='27.08.2021', startingHour=20, duration=120 min, location=Location{country='Romania', city='Bucuresti', venue='National Arena'}} to Event.csv, 2020-05-09 21:34:39.343
