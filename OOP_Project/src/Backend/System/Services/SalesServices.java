@@ -9,7 +9,7 @@ import java.util.UUID;
 public class SalesServices extends Services {
 
     public int addSale(Sales sale) {
-        return getDataBase().insertSale(sale);
+        return getPostgres().insertSale(sale);
     }
 
     public Sales getSaleByClient(UUID id) {

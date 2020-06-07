@@ -8,8 +8,8 @@ public class JdbcConnection {
     private final String url = "jdbc:postgresql://localhost:5432/ticketdb";
     private final String user = "postgres";
     private final String password = "baschetball99";
-    private static Connection connection = null;
-    public Connection connect() {
+    private static Connection connection;
+    public void connect() {
         try {
             connection = DriverManager.getConnection(url, user, password);
             System.out.println("Connection to Postgresql DB successful");
@@ -18,7 +18,6 @@ public class JdbcConnection {
             e.printStackTrace();
         }
 
-        return connection;
     }
 
     public void close() {

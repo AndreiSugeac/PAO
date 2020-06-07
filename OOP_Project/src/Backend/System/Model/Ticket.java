@@ -13,6 +13,12 @@ public class Ticket {
                                 event.getLocation());
     }
 
+    public Ticket(Event event) {
+        this.ticket_id = UUID.randomUUID();
+        this.event = new Event(event.getEvent_id(), event.getNameEvent(),event.getDate(), event.getStartingHour(),
+                event.getLocation());
+    }
+
     public UUID getTicket_id() {
         return ticket_id;
     }

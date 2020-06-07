@@ -1,24 +1,32 @@
 package Backend.App;
 
 import Backend.JDBC.JdbcConnection;
+import GUI.AppFrame;
 
 import java.util.Scanner;
 
 
 public class App {
-    private final JdbcConnection JDBC_CONNECTION = new JdbcConnection();
+    private static JdbcConnection JDBC_CONNECTION;
+
+    public App() {
+        JDBC_CONNECTION = new JdbcConnection();
+    }
 
     public static void main(String[] args) {
         App app = new App();
-        app.JDBC_CONNECTION.connect();
-        while(true) {
-            Scanner keyboard = new Scanner(System.in);
-            System.out.println("Type 0 to end the program!");
-            int finish = keyboard.nextInt();
-            if(finish == 0) {
-                break;
-            }
+        JDBC_CONNECTION.connect();
+        System.out.println(JdbcConnection.getConnection());
+        if(JdbcConnection.getConnection() != null) {
+            AppFrame appFrame = new AppFrame();
         }
-        app.JDBC_CONNECTION.close();
+    }
+
+    public static void closeConnection() {
+        JDBC_CONNECTION.close();
+    }
+
+    public static JdbcConnection getJdbcConnection() {
+        return JDBC_CONNECTION;
     }
 }
